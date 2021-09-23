@@ -1,0 +1,1386 @@
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-07, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35019028e-07 -8.88812880e-08 -7.80489019e-08 -7.30732134e-08
+ -6.72638844e-08 -6.68954631e-08 -6.68385302e-08 -6.68458361e-08] 
+
+log marginal likelihood: [29.25454318020264, 26.329469184131572, 25.419860997461594, 24.958787167021796, 24.37896533059433, 24.340519514320416, 24.33455952078331, 24.335324613864255] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-07) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=3.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=4.32e-05)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-07) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.96902236e-04 -3.43797109e-04 -8.69968892e-05 -1.15462974e-03
+ -4.57577498e-03 -1.94140407e-03 -8.35465888e-05 -7.49244769e-05] 
+
+negative mean squared error: [-5.74947515e-06 -2.89080910e-06 -2.25184654e-05 -1.00530247e-05
+ -6.31631364e-06 -2.25186174e-05 -2.25185716e-05 -2.25185287e-05] 
+
+log marginal likelihood: [-42.303796650987934, -41.60115270284347, -43.150289700604894, -41.26719903440845, -39.635082019383475, -40.04402951763703, -43.18852838730951, -43.298118555535574] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-06, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35019028e-07 -8.88812880e-08 -7.80489019e-08 -7.30732134e-08
+ -6.72638844e-08 -6.68954631e-08 -6.68385302e-08 -6.68458361e-08] 
+
+log marginal likelihood: [29.25454318021508, 26.329469184139793, 25.419860997461615, 24.958787167021818, 24.378965330600554, 24.340519514326616, 24.3345595207895, 24.335324613870455] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-06) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=3.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=4.32e-05)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-06) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.96902236e-04 -3.43797109e-04 -8.69968892e-05 -1.15462974e-03
+ -4.57577498e-03 -1.94140407e-03 -8.35465888e-05 -7.49244769e-05] 
+
+negative mean squared error: [-5.74947515e-06 -2.89080910e-06 -2.25184654e-05 -1.00530247e-05
+ -6.31631364e-06 -2.25186174e-05 -2.25185716e-05 -2.25185287e-05] 
+
+log marginal likelihood: [-42.303796650987934, -41.60115270284347, -43.150289700604894, -41.26719903440845, -39.635082019383475, -40.04402951763703, -43.18852838730951, -43.298118555535574] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=1e-05, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35019028e-07 -8.88812880e-08 -7.80489019e-08 -7.30732134e-08
+ -6.72638844e-08 -6.68954631e-08 -6.68385302e-08 -6.68458361e-08] 
+
+log marginal likelihood: [29.25454318145945, 26.329469184962623, 25.419860997463772, 24.95878716702384, 24.378965331223927, 24.340519514946415, 24.334559521408334, 24.335324614489583] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=1e-05) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=3.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=4.32e-05)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=1e-05) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.96902236e-04 -3.43797109e-04 -8.69968892e-05 -1.15462974e-03
+ -4.57577498e-03 -1.94140407e-03 -8.35465888e-05 -7.49244769e-05] 
+
+negative mean squared error: [-5.74947515e-06 -2.89080910e-06 -2.25184654e-05 -1.00530247e-05
+ -6.31631364e-06 -2.25186174e-05 -2.25185716e-05 -2.25185287e-05] 
+
+log marginal likelihood: [-42.303796650987934, -41.60115270284347, -43.150289700604894, -41.26719903440845, -39.635082019383475, -40.04402951763703, -43.18852838730951, -43.298118555535574] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.0001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83988989e-03 -1.10100489e-03
+ -9.99999999e-05 -3.06499999e-05 -1.98649998e-05 -2.12499998e-05] 
+
+negative mean squared error: [-1.35019028e-07 -8.88812879e-08 -7.80489019e-08 -7.30732134e-08
+ -6.72638844e-08 -6.68954631e-08 -6.68385302e-08 -6.68458361e-08] 
+
+log marginal likelihood: [29.254543305901894, 26.329469267248086, 25.41986099767981, 24.95878716722623, 24.37896539356176, 24.34051957692673, 24.334559583292283, 24.335324676403367] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.0001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=3.92e-05)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=4.32e-05)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.0001) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.96897434e-04 -3.43816050e-04 -8.69994328e-05 -1.15466199e-03
+ -4.57579314e-03 -1.94138193e-03 -8.35464474e-05 -7.49281892e-05] 
+
+negative mean squared error: [-5.74924995e-06 -2.89056935e-06 -2.25185217e-05 -1.00532340e-05
+ -6.31653512e-06 -2.25186667e-05 -2.25183434e-05 -2.25184814e-05] 
+
+log marginal likelihood: [-42.303796647146086, -41.60115269619082, -43.15028967969295, -41.26719908929916, -39.63508202828825, -40.04402954883183, -43.188528386635326, -43.29811851520114] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.001, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.034**2 * RationalQuadratic(alpha=0.0105, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RationalQuadratic(alpha=1, length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-2.69662183e-03 -3.16230500e-03 -1.83987871e-03 -1.10099370e-03
+ -9.99999887e-05 -3.06499854e-05 -1.98649774e-05 -2.12499816e-05] 
+
+negative mean squared error: [-2.58706691e-07 -8.88813066e-08 -7.80489018e-08 -7.30732134e-08
+ -6.72649983e-08 -6.68965312e-08 -6.68395910e-08 -6.68468980e-08] 
+
+log marginal likelihood: [34.2410514679318, 26.329477506402885, 25.419861019282862, 24.958787187465298, 24.378971635848977, 24.340525783365866, 24.334565780066733, 24.335330876171813] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.001) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=3.92e-05)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=4.32e-05)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.001) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.96892835e-04 -3.43807995e-04 -8.69992995e-05 -1.15463094e-03
+ -4.57575683e-03 -1.94139835e-03 -8.35484372e-05 -7.49276750e-05] 
+
+negative mean squared error: [-5.74866427e-06 -2.89022636e-06 -2.25186137e-05 -1.00525369e-05
+ -6.31618284e-06 -2.25187867e-05 -2.25188096e-05 -2.25179115e-05] 
+
+log marginal likelihood: [-42.303796648061265, -41.60115270401515, -43.150289728137224, -41.26719905272966, -39.635081991090104, -40.04402956103524, -43.188528387522815, -43.298118543794565] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781876092, 28.1821063980557, 27.339315552659826, 27.034125477035307, 27.28202446904444, 27.525980964001675, 27.56333114024892, 27.55780344143773] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.01, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0342**2 * RationalQuadratic(alpha=0.0118, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0434**2 * RationalQuadratic(alpha=0.0142, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RationalQuadratic(alpha=1, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RationalQuadratic(alpha=1, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0471**2 * RationalQuadratic(alpha=0.0123, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.047**2 * RationalQuadratic(alpha=0.0119, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0469**2 * RationalQuadratic(alpha=0.012, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.047**2 * RationalQuadratic(alpha=0.0119, length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-2.58164425e-03 -4.14772864e-04 -1.83876110e-03 -1.09987572e-03
+ -5.85373788e-05 -1.40311027e-04 -1.24824976e-04 -1.46665948e-04] 
+
+negative mean squared error: [-2.64401215e-07 -1.52077407e-07 -7.80489034e-08 -7.30732160e-08
+ -1.35732301e-07 -1.41196776e-07 -1.42156816e-07 -1.42195151e-07] 
+
+log marginal likelihood: [34.734645997087995, 30.589369609520123, 25.419863181388834, 24.958789213099397, 29.831573408642697, 29.943084712042403, 29.881915759301926, 29.949024803195993] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.01) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180199065, 26.32946918412809, 25.41986099746159, 24.958787167021697, 24.37896533059859, 24.340519514324093, 24.334559520786897, 24.335324613867858] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=3.91e-05)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=1.91e-05)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=4.3e-05)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.01) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-2.97042138e-04 -3.43730414e-04 -8.69989919e-05 -1.15648039e-03
+ -4.57842106e-03 -1.94138309e-03 -8.35409394e-05 -7.49282174e-05] 
+
+negative mean squared error: [-5.70196438e-06 -2.84239662e-06 -2.25184043e-05 -1.00384250e-05
+ -6.26979083e-06 -2.25182805e-05 -2.25186820e-05 -2.25186204e-05] 
+
+log marginal likelihood: [-42.303796511684666, -41.601153093399944, -43.150292089815885, -41.26720787324247, -39.63508009840933, -40.04403165823841, -43.18852937200165, -43.29811905443886] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180242575, 26.329469184156867, 25.41986099746159, 24.958787167021697, 24.378965330620403, 24.340519514345782, 24.33455952080858, 24.335324613889544] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0213**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.05e-05) + 0.0208**2
+Learned kernel: 0.0284**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.02e-05) + 0.0234**2
+Learned kernel: 0.0301**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.02e-05) + 0.0252**2
+Learned kernel: 0.0306**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.02e-05) + 0.0266**2
+Learned kernel: 0.0294**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.01e-05) + 0.0304**2
+Learned kernel: 0.0287**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.01e-05) + 0.0312**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+Learned kernel: 0.0286**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1.01e-05) + 0.0313**2
+
+test scores for each model: [-3.69055642e-03 -1.22594623e-03 -4.04521097e-04 -7.79299839e-05
+ -3.43025023e-04 -5.92841455e-04 -6.30317209e-04 -6.24790497e-04] 
+
+negative mean squared error: [-2.51057173e-07 -1.35670899e-07 -1.20561330e-07 -1.16286699e-07
+ -1.23596772e-07 -1.29375888e-07 -1.30321402e-07 -1.30181601e-07] 
+
+log marginal likelihood: [31.851581781898396, 28.18210639806766, 27.339315552659826, 27.034125477035307, 27.28202446905004, 27.525980964006834, 27.56333114025405, 27.557803441442882] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * Matern(length_scale=0.1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83971058e-03 -1.10082550e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025218e-07 -8.88781992e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72646774e-08 -6.68962816e-08 -6.68393520e-08 -6.68466575e-08] 
+
+log marginal likelihood: [29.254742289519225, 26.329600844816973, 25.41986099746159, 24.958787167021697, 24.379065170814016, 24.340618811058174, 24.334658733532393, 24.335423837391144] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.034**2 * RationalQuadratic(alpha=0.0141, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0435**2 * RationalQuadratic(alpha=0.0166, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0456**2 * RationalQuadratic(alpha=0.015, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0472**2 * RationalQuadratic(alpha=0.014, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0467**2 * RationalQuadratic(alpha=0.0146, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0466**2 * RationalQuadratic(alpha=0.0142, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0466**2 * RationalQuadratic(alpha=0.0143, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0466**2 * RationalQuadratic(alpha=0.0141, length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-2.44061606e-03 -3.28258309e-04 -1.00397467e-04 -4.50835942e-05
+ -3.43868908e-05 -9.65281883e-05 -7.75307543e-05 -9.88523008e-05] 
+
+negative mean squared error: [-2.79490210e-07 -1.57266089e-07 -1.31584643e-07 -1.25719354e-07
+ -1.40248199e-07 -1.45874195e-07 -1.47118111e-07 -1.47144929e-07] 
+
+log marginal likelihood: [35.492615938077094, 31.34250129161427, 30.55938109456475, 30.41797304480237, 30.55212547380205, 30.618463481565357, 30.520731307482137, 30.609755851468666] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0298**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0367**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0423**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0424**2 * RBF(length_scale=0.1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.83989000e-03 -1.10100500e-03
+ -1.00000000e-04 -3.06500000e-05 -1.98650000e-05 -2.12500000e-05] 
+
+negative mean squared error: [-1.35025557e-07 -8.88782718e-08 -7.80477845e-08 -7.30725683e-08
+ -6.72647189e-08 -6.68963225e-08 -6.68393928e-08 -6.68466983e-08] 
+
+log marginal likelihood: [29.254543180242575, 26.329469184156867, 25.41986099746159, 24.958787167021697, 24.378965330620403, 24.340519514345782, 24.33455952080858, 24.335324613889544] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.1) + WhiteKernel(noise_level=2.27e-05)
+Learned kernel: DotProduct(sigma_0=0.0739) + WhiteKernel(noise_level=1.01e-05)
+Learned kernel: DotProduct(sigma_0=0.00478) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00109) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.1) + WhiteKernel(noise_level=2.68e-05)
+Learned kernel: DotProduct(sigma_0=0.0017) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.0999) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.0999) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-3.12192937e-04 -3.39778938e-04 -8.69974020e-05 -1.15462974e-03
+ -4.85771152e-03 -1.94138552e-03 -8.35262050e-05 -7.49213635e-05] 
+
+negative mean squared error: [-1.99290921e-06 -8.64946004e-07 -2.25190635e-05 -1.00531670e-05
+ -2.49772579e-06 -2.25188408e-05 -2.25183268e-05 -2.25185196e-05] 
+
+log marginal likelihood: [-42.30378286315347, -41.60117460406852, -43.15029026290493, -41.26719900156378, -39.63489016468142, -40.04402955875855, -43.18862413472846, -43.298169495772726] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0271**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0346**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0404**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -2.99457411e-04 -2.39167014e-06
+ -9.99999984e-05 -3.06352327e-05 -1.78967861e-05 -1.92937973e-05] 
+
+negative mean squared error: [-1.60861558e-07 -9.97664569e-08 -7.80474561e-08 -7.30723076e-08
+ -7.34032993e-08 -7.29661458e-08 -7.28989436e-08 -7.29076056e-08] 
+
+log marginal likelihood: [31.490387335973757, 28.093136138936107, 25.423548599192856, 24.962398404012358, 25.931840972694467, 25.889848185676293, 25.87974125239062, 25.880585763844948] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0209**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0185**2
+Learned kernel: 0.0284**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0214**2
+Learned kernel: 0.0299**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0255**2
+Learned kernel: 0.0305**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.027**2
+Learned kernel: 0.0297**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0296**2
+Learned kernel: 0.029**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0305**2
+Learned kernel: 0.0291**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0302**2
+Learned kernel: 0.0291**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 0.0302**2
+
+test scores for each model: [-4.01697299e-03 -1.40445343e-03 -1.47570486e-04 -3.21927331e-05
+ -3.02542989e-04 -5.46297319e-04 -5.07334504e-04 -5.03005099e-04] 
+
+negative mean squared error: [-2.71129539e-07 -1.44331664e-07 -1.16846508e-07 -1.12676016e-07
+ -1.31623766e-07 -1.38307947e-07 -1.38400520e-07 -1.38259800e-07] 
+
+log marginal likelihood: [33.29272281297259, 29.371938097657825, 27.38888337905826, 27.088227269075695, 28.28573611096109, 28.513220584962667, 28.470660887708053, 28.466531985115367] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0272**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0347**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0405**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -4.58133002e-04 -3.03932565e-05
+ -9.99592219e-05 -3.02481767e-05 -1.66179659e-05 -1.83181934e-05] 
+
+negative mean squared error: [-1.46997302e-07 -9.42733508e-08 -7.80472750e-08 -7.30721560e-08
+ -7.03855852e-08 -6.99835627e-08 -6.99232579e-08 -6.99310482e-08] 
+
+log marginal likelihood: [31.075306314248678, 27.696821685238387, 25.427610604028946, 24.96641022450761, 25.54267313974874, 25.50052799956758, 25.486768800512813, 25.487855184631435] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0331**2 * RationalQuadratic(alpha=0.0197, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0421**2 * RationalQuadratic(alpha=0.0235, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0441**2 * RationalQuadratic(alpha=0.0194, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0456**2 * RationalQuadratic(alpha=0.018, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0446**2 * RationalQuadratic(alpha=0.0208, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0447**2 * RationalQuadratic(alpha=0.02, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.045**2 * RationalQuadratic(alpha=0.0198, length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0449**2 * RationalQuadratic(alpha=0.0197, length_scale=1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-2.27535267e-03 -2.40313391e-04 -9.49987139e-05 -7.22982341e-05
+ -1.13523869e-05 -4.97328849e-05 -2.92538967e-05 -4.66118225e-05] 
+
+negative mean squared error: [-3.91307634e-07 -1.97169995e-07 -1.30998025e-07 -1.24662655e-07
+ -1.77190981e-07 -1.83831813e-07 -1.85849849e-07 -1.86035425e-07] 
+
+log marginal likelihood: [36.82906634692532, 32.838019040730686, 31.778650665709982, 31.66646214328682, 31.94116999172887, 31.90839968975883, 31.71742220912725, 31.853458790511233] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0271**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0346**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0404**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0406**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -2.99457411e-04 -2.39167014e-06
+ -9.99999984e-05 -3.06352327e-05 -1.78967861e-05 -1.92937973e-05] 
+
+negative mean squared error: [-1.60861558e-07 -9.97664569e-08 -7.80474561e-08 -7.30723076e-08
+ -7.34032993e-08 -7.29661458e-08 -7.28989436e-08 -7.29076056e-08] 
+
+log marginal likelihood: [31.490387335973757, 28.093136138936107, 25.423548599192856, 24.962398404012358, 25.931840972694467, 25.889848185676293, 25.87974125239062, 25.880585763844948] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.131) + WhiteKernel(noise_level=1.07e-05)
+Learned kernel: DotProduct(sigma_0=8.9e-05) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.00203) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00156) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.142) + WhiteKernel(noise_level=1.02e-05)
+Learned kernel: DotProduct(sigma_0=0.00634) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00464) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00322) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-3.23593551e-04 -3.43809191e-04 -8.69965097e-05 -1.15472180e-03
+ -5.15393487e-03 -1.94140490e-03 -8.35474219e-05 -7.49268086e-05] 
+
+negative mean squared error: [-4.86566096e-07 -2.89099721e-06 -2.25185502e-05 -1.00523996e-05
+ -4.04476996e-07 -2.25187467e-05 -2.25189979e-05 -2.25189244e-05] 
+
+log marginal likelihood: [-42.30377287957302, -41.601152707627755, -43.15028980861108, -41.26719937287145, -39.63469591446702, -40.04403036293546, -43.18852860521979, -43.29811859414872] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0306**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.15e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.2e-05)
+Learned kernel: 0.0407**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.042**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0449**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.51e-05)
+Learned kernel: 0.0454**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.41e-05)
+Learned kernel: 0.0436**2 * RBF(length_scale=10) + WhiteKernel(noise_level=3.43e-05)
+Learned kernel: 0.0438**2 * RBF(length_scale=10) + WhiteKernel(noise_level=3.29e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.03348961e-04 -9.02962211e-05
+ -3.99466940e-05 -4.54360797e-06 -2.02612897e-06 -4.03316305e-06] 
+
+negative mean squared error: [-6.18575445e-06 -5.43360375e-06 -1.05968042e-07 -9.89550166e-08
+ -5.14355953e-06 -5.09042395e-06 -5.93836328e-06 -5.81936356e-06] 
+
+log marginal likelihood: [37.048300232268794, 34.41406131565928, 31.485442782800902, 31.05510740918364, 31.307599432199446, 30.634882468912856, 29.47361434725245, 29.906056198553856] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0194**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1.93e-05) + 0.03**2
+Learned kernel: 0.0273**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.08e-05) + 0.0362**2
+Learned kernel: 0.0249**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05) + 0.0403**2
+Learned kernel: 0.0246**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05) + 0.0427**2
+Learned kernel: 0.0273**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.34e-05) + 0.0417**2
+Learned kernel: 0.0273**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.38e-05) + 0.0411**2
+Learned kernel: 0.0261**2 * RBF(length_scale=10) + WhiteKernel(noise_level=3.11e-05) + 0.0412**2
+Learned kernel: 0.026**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.95e-05) + 0.0419**2
+
+test scores for each model: [-2.70656010e-03 -5.25589201e-04 -9.54377597e-05 -9.65412663e-05
+ -8.72727131e-06 -5.29403547e-06 -4.14770185e-09 -8.19272037e-06] 
+
+negative mean squared error: [-6.81527037e-06 -6.24508201e-06 -1.52026823e-07 -1.59349203e-07
+ -6.39004369e-06 -6.44782760e-06 -7.08550162e-06 -6.95974171e-06] 
+
+log marginal likelihood: [39.553516441874216, 36.370944280721666, 35.525052125344025, 35.57085669722395, 34.444558458027245, 33.7717456250909, 32.983741030642356, 33.46697941531666] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0292**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=2.38e-05)
+Learned kernel: 0.0377**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=2.3e-05)
+Learned kernel: 0.0396**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0409**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0439**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=2.25e-05)
+Learned kernel: 0.0439**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=2.36e-05)
+Learned kernel: 0.0432**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=3.02e-05)
+Learned kernel: 0.0433**2 * Matern(length_scale=10, nu=1.5) + WhiteKernel(noise_level=2.87e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.06508087e-04 -8.65509506e-05
+ -4.31414206e-05 -3.46157054e-06 -1.19324387e-06 -2.48193189e-06] 
+
+negative mean squared error: [-5.02737980e-06 -3.80587051e-06 -7.80288407e-08 -7.30668640e-08
+ -3.05219167e-06 -3.17182381e-06 -3.89510892e-06 -3.73944577e-06] 
+
+log marginal likelihood: [35.646935466040844, 32.78910423784496, 29.425364407272212, 28.972527147488027, 30.19048289131406, 29.53116458858392, 28.598894612469856, 28.99417046071923] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0309**2 * RationalQuadratic(alpha=0.0449, length_scale=10) + WhiteKernel(noise_level=2.11e-05)
+Learned kernel: 0.0395**2 * RationalQuadratic(alpha=0.0587, length_scale=10) + WhiteKernel(noise_level=2.28e-05)
+Learned kernel: 0.0376**2 * RationalQuadratic(alpha=0.0465, length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0388**2 * RationalQuadratic(alpha=0.0424, length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.042**2 * RationalQuadratic(alpha=0.0447, length_scale=10) + WhiteKernel(noise_level=2.4e-05)
+Learned kernel: 0.0427**2 * RationalQuadratic(alpha=0.0389, length_scale=10) + WhiteKernel(noise_level=2.53e-05)
+Learned kernel: 0.043**2 * RationalQuadratic(alpha=0.0357, length_scale=10) + WhiteKernel(noise_level=2.92e-05)
+Learned kernel: 0.0427**2 * RationalQuadratic(alpha=0.0372, length_scale=10) + WhiteKernel(noise_level=2.78e-05)
+
+test scores for each model: [-2.17196857e-03 -2.06666084e-04 -9.75274182e-05 -9.37923521e-05
+ -6.49493240e-07 -1.10746517e-05 -1.75505162e-06 -6.61173305e-06] 
+
+negative mean squared error: [-6.23569369e-06 -5.54461060e-06 -1.16096384e-07 -1.10801199e-07
+ -5.43872168e-06 -5.54632630e-06 -5.95810582e-06 -5.84041734e-06] 
+
+log marginal likelihood: [39.077411611199324, 35.90881901370634, 35.282595964074694, 35.15425591419426, 34.49164535569125, 34.09895888996987, 33.55617256252508, 33.855576596587554] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0306**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.15e-05)
+Learned kernel: 0.0392**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.2e-05)
+Learned kernel: 0.0407**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.042**2 * RBF(length_scale=10) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0449**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.51e-05)
+Learned kernel: 0.0454**2 * RBF(length_scale=10) + WhiteKernel(noise_level=2.41e-05)
+Learned kernel: 0.0436**2 * RBF(length_scale=10) + WhiteKernel(noise_level=3.43e-05)
+Learned kernel: 0.0438**2 * RBF(length_scale=10) + WhiteKernel(noise_level=3.29e-05)
+
+test scores for each model: [-6.41725331e-03 -3.16230500e-03 -1.03348961e-04 -9.02962211e-05
+ -3.99466940e-05 -4.54360797e-06 -2.02612897e-06 -4.03316305e-06] 
+
+negative mean squared error: [-6.18575445e-06 -5.43360375e-06 -1.05968042e-07 -9.89550166e-08
+ -5.14355953e-06 -5.09042395e-06 -5.93836328e-06 -5.81936356e-06] 
+
+log marginal likelihood: [37.048300232268794, 34.41406131565928, 31.485442782800902, 31.05510740918364, 31.307599432199446, 30.634882468912856, 29.47361434725245, 29.906056198553856] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.131) + WhiteKernel(noise_level=1.07e-05)
+Learned kernel: DotProduct(sigma_0=8.9e-05) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.00203) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00156) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.142) + WhiteKernel(noise_level=1.02e-05)
+Learned kernel: DotProduct(sigma_0=0.00634) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00464) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00322) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-3.23593551e-04 -3.43809191e-04 -8.69965097e-05 -1.15472180e-03
+ -5.15393487e-03 -1.94140490e-03 -8.35474219e-05 -7.49268086e-05] 
+
+negative mean squared error: [-4.86566096e-07 -2.89099721e-06 -2.25185502e-05 -1.00523996e-05
+ -4.04476996e-07 -2.25187467e-05 -2.25189979e-05 -2.25189244e-05] 
+
+log marginal likelihood: [-42.30377287957302, -41.601152707627755, -43.15028980861108, -41.26719937287145, -39.63469591446702, -40.04403036293546, -43.18852860521979, -43.29811859414872] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0384**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.64e-05)
+Learned kernel: 0.0493**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.62e-05)
+Learned kernel: 0.048**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0496**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0488**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0489**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.1e-05)
+Learned kernel: 0.0485**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.21e-05)
+Learned kernel: 0.0489**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.16e-05)
+
+test scores for each model: [-5.26958390e-03 -2.06828098e-03 -1.00518000e-04 -9.37228479e-05
+ -2.68827352e-05 -5.24358537e-06 -3.16552256e-06 -3.36586779e-06] 
+
+negative mean squared error: [-9.10436125e-06 -8.60665848e-06 -1.34081692e-06 -1.28541190e-06
+ -7.38303695e-06 -8.40541521e-06 -8.74834052e-06 -8.80797276e-06] 
+
+log marginal likelihood: [41.01375473805804, 39.33162605387942, 37.94044439584815, 37.63159115049656, 35.012395951635156, 34.21895174361519, 34.11953394793653, 34.244167632370186] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.025**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.68e-05) + 0.0299**2
+Learned kernel: 0.0361**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.64e-05) + 0.0356**2
+Learned kernel: 0.0311**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05) + 0.0392**2
+Learned kernel: 0.0306**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05) + 0.042**2
+Learned kernel: 0.0308**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.69e-05) + 0.0401**2
+Learned kernel: 0.0302**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.14e-05) + 0.0407**2
+Learned kernel: 0.0299**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.2e-05) + 0.0407**2
+Learned kernel: 0.0301**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.16e-05) + 0.0407**2
+
+test scores for each model: [-2.43570285e-03 -3.58220533e-04 -9.68131092e-05 -9.65108697e-05
+ -2.42707284e-05 -5.84767424e-06 -5.04864566e-06 -5.88666806e-06] 
+
+negative mean squared error: [-9.79867476e-06 -9.17987236e-06 -2.07582072e-06 -2.10003955e-06
+ -7.54145484e-06 -9.22777076e-06 -9.46831450e-06 -9.45863585e-06] 
+
+log marginal likelihood: [42.05547370108832, 40.06361643341556, 39.717441148523584, 39.70491995632539, 36.8741068491388, 36.18951364108927, 36.151377283573815, 36.228649837035334] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0369**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=1.63e-05)
+Learned kernel: 0.0469**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=1.65e-05)
+Learned kernel: 0.0455**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0471**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0477**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=1.82e-05)
+Learned kernel: 0.0476**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=2.11e-05)
+Learned kernel: 0.0469**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=2.31e-05)
+Learned kernel: 0.0475**2 * Matern(length_scale=100, nu=1.5) + WhiteKernel(noise_level=2.21e-05)
+
+test scores for each model: [-5.23518328e-03 -2.03751699e-03 -1.00889729e-04 -9.32759133e-05
+ -2.65855992e-05 -5.35921235e-06 -2.28897676e-06 -2.10144392e-06] 
+
+negative mean squared error: [-8.24383791e-06 -7.82776632e-06 -7.27175873e-07 -6.92175276e-07
+ -7.17424108e-06 -7.65045212e-06 -8.02878411e-06 -8.02471119e-06] 
+
+log marginal likelihood: [40.781950668799865, 38.94128418512288, 37.55550299842333, 37.21249740609756, 34.77654710442634, 33.9822018849742, 33.789895773327, 33.99918863165555] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0381**2 * RationalQuadratic(alpha=0.0814, length_scale=100) + WhiteKernel(noise_level=1.63e-05)
+Learned kernel: 0.049**2 * RationalQuadratic(alpha=0.113, length_scale=100) + WhiteKernel(noise_level=1.62e-05)
+Learned kernel: 0.0457**2 * RationalQuadratic(alpha=0.0806, length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0474**2 * RationalQuadratic(alpha=0.0711, length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0462**2 * RationalQuadratic(alpha=0.0804, length_scale=100) + WhiteKernel(noise_level=1.71e-05)
+Learned kernel: 0.0465**2 * RationalQuadratic(alpha=0.0735, length_scale=100) + WhiteKernel(noise_level=2.08e-05)
+Learned kernel: 0.0458**2 * RationalQuadratic(alpha=0.076, length_scale=100) + WhiteKernel(noise_level=2.19e-05)
+Learned kernel: 0.0464**2 * RationalQuadratic(alpha=0.0739, length_scale=100) + WhiteKernel(noise_level=2.14e-05)
+
+test scores for each model: [-1.57920926e-03 -1.37797572e-05 -9.77145450e-05 -9.53138670e-05
+ -2.33857968e-05 -5.83825601e-06 -4.09088410e-06 -4.38232019e-06] 
+
+negative mean squared error: [-9.11939501e-06 -8.61151160e-06 -1.41696734e-06 -1.34997821e-06
+ -7.45685666e-06 -8.54988358e-06 -8.92414957e-06 -8.96808780e-06] 
+
+log marginal likelihood: [42.075986664074044, 40.07800285634346, 40.39692608472086, 40.288291497486085, 37.46234712826069, 36.78857710139507, 36.70136904102712, 36.81453120293352] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0384**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.64e-05)
+Learned kernel: 0.0493**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.62e-05)
+Learned kernel: 0.048**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0496**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0488**2 * RBF(length_scale=100) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0489**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.1e-05)
+Learned kernel: 0.0485**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.21e-05)
+Learned kernel: 0.0489**2 * RBF(length_scale=100) + WhiteKernel(noise_level=2.16e-05)
+
+test scores for each model: [-5.26958390e-03 -2.06828098e-03 -1.00518000e-04 -9.37228479e-05
+ -2.68827352e-05 -5.24358537e-06 -3.16552256e-06 -3.36586779e-06] 
+
+negative mean squared error: [-9.10436125e-06 -8.60665848e-06 -1.34081692e-06 -1.28541190e-06
+ -7.38303695e-06 -8.40541521e-06 -8.74834052e-06 -8.80797276e-06] 
+
+log marginal likelihood: [41.01375473805804, 39.33162605387942, 37.94044439584815, 37.63159115049656, 35.012395951635156, 34.21895174361519, 34.11953394793653, 34.244167632370186] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.131) + WhiteKernel(noise_level=1.07e-05)
+Learned kernel: DotProduct(sigma_0=8.9e-05) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.00203) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00156) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.142) + WhiteKernel(noise_level=1.02e-05)
+Learned kernel: DotProduct(sigma_0=0.00634) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00464) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00322) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-3.23593551e-04 -3.43809191e-04 -8.69965097e-05 -1.15472180e-03
+ -5.15393487e-03 -1.94140490e-03 -8.35474219e-05 -7.49268086e-05] 
+
+negative mean squared error: [-4.86566096e-07 -2.89099721e-06 -2.25185502e-05 -1.00523996e-05
+ -4.04476996e-07 -2.25187467e-05 -2.25189979e-05 -2.25189244e-05] 
+
+log marginal likelihood: [-42.30377287957302, -41.601152707627755, -43.15028980861108, -41.26719937287145, -39.63469591446702, -40.04403036293546, -43.18852860521979, -43.29811859414872] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0371**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0485**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.05**2 * RBF(length_scale=604) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0559**2 * RBF(length_scale=760) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0541**2 * RBF(length_scale=795) + WhiteKernel(noise_level=1.84e-05)
+Learned kernel: 0.0545**2 * RBF(length_scale=938) + WhiteKernel(noise_level=2.82e-05)
+Learned kernel: 0.0544**2 * RBF(length_scale=931) + WhiteKernel(noise_level=2.82e-05)
+Learned kernel: 0.0542**2 * RBF(length_scale=902) + WhiteKernel(noise_level=2.69e-05)
+
+test scores for each model: [-5.27226431e-04 -3.76539665e-04 -9.90736051e-05 -9.58449555e-05
+ -2.76500588e-05 -5.12159120e-06 -4.58411196e-06 -6.14677126e-06] 
+
+negative mean squared error: [-1.05653192e-05 -1.05164497e-05 -3.61907162e-06 -3.78122459e-06
+ -8.86176941e-06 -1.40676489e-05 -1.40510581e-05 -1.33091223e-05] 
+
+log marginal likelihood: [42.608993758908625, 41.003544817865894, 40.13418747513722, 39.98838038890486, 37.566638106648504, 36.83886945013812, 36.82470298807697, 36.866966083824366] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) + 1**2 ###
+
+Learned kernel: 0.0363**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05) + 0.0114**2
+Learned kernel: 0.0466**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05) + 0.0192**2
+Learned kernel: 0.0333**2 * RBF(length_scale=282) + WhiteKernel(noise_level=1e-05) + 0.0321**2
+Learned kernel: 0.0329**2 * RBF(length_scale=270) + WhiteKernel(noise_level=1e-05) + 0.0358**2
+Learned kernel: 0.0335**2 * RBF(length_scale=293) + WhiteKernel(noise_level=1.67e-05) + 0.0331**2
+Learned kernel: 0.0473**2 * RBF(length_scale=769) + WhiteKernel(noise_level=2.6e-05) + 0.0278**2
+Learned kernel: 0.0468**2 * RBF(length_scale=754) + WhiteKernel(noise_level=2.6e-05) + 0.0282**2
+Learned kernel: 0.0462**2 * RBF(length_scale=722) + WhiteKernel(noise_level=2.5e-05) + 0.0284**2
+
+test scores for each model: [-5.16980235e-04 -3.64622677e-04 -9.85814003e-05 -9.51198853e-05
+ -2.61259353e-05 -5.26540273e-06 -4.95107507e-06 -6.50694827e-06] 
+
+negative mean squared error: [-1.05695204e-05 -1.05217496e-05 -3.29712247e-06 -3.27005207e-06
+ -7.76470334e-06 -1.27254275e-05 -1.26814548e-05 -1.21519133e-05] 
+
+log marginal likelihood: [42.61470546358184, 41.02012110606507, 40.55966506313268, 40.40263055171422, 37.83204216466849, 36.89512841173504, 36.88563340227778, 36.931182694698904] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * Matern(length_scale=1, nu=1.5) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.036**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0478**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0488**2 * Matern(length_scale=917, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0514**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0497**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0488**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=2.34e-05)
+Learned kernel: 0.0488**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=2.35e-05)
+Learned kernel: 0.0488**2 * Matern(length_scale=1e+03, nu=1.5) + WhiteKernel(noise_level=2.31e-05)
+
+test scores for each model: [-6.70875179e-04 -3.35265244e-04 -9.84300967e-05 -9.52519650e-05
+ -2.70840389e-05 -5.27202815e-06 -4.94326820e-06 -6.44636118e-06] 
+
+negative mean squared error: [-1.05241134e-05 -1.04461250e-05 -3.57124628e-06 -3.59832057e-06
+ -8.24858246e-06 -1.11205951e-05 -1.11863584e-05 -1.09876161e-05] 
+
+log marginal likelihood: [42.30718227218345, 40.58658414487253, 40.6292540710067, 40.48901884489297, 38.015681346790736, 37.24717837566039, 37.236393077895535, 37.28690641969178] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RationalQuadratic(alpha=1, length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0371**2 * RationalQuadratic(alpha=9.65e+04, length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0485**2 * RationalQuadratic(alpha=9.39e+04, length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0478**2 * RationalQuadratic(alpha=0.19, length_scale=403) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.05**2 * RationalQuadratic(alpha=0.166, length_scale=413) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0489**2 * RationalQuadratic(alpha=0.205, length_scale=447) + WhiteKernel(noise_level=1.68e-05)
+Learned kernel: 0.0488**2 * RationalQuadratic(alpha=0.187, length_scale=451) + WhiteKernel(noise_level=2.23e-05)
+Learned kernel: 0.0489**2 * RationalQuadratic(alpha=0.186, length_scale=454) + WhiteKernel(noise_level=2.25e-05)
+Learned kernel: 0.0489**2 * RationalQuadratic(alpha=0.185, length_scale=451) + WhiteKernel(noise_level=2.2e-05)
+
+test scores for each model: [-5.27223317e-04 -3.76542525e-04 -9.83576712e-05 -9.48637808e-05
+ -2.61426287e-05 -5.55339970e-06 -5.41678952e-06 -6.84667583e-06] 
+
+negative mean squared error: [-1.05652966e-05 -1.05164279e-05 -3.31601190e-06 -3.29689700e-06
+ -7.84524512e-06 -1.03663989e-05 -1.04428272e-05 -1.02755077e-05] 
+
+log marginal likelihood: [42.60899252951578, 41.00354293977093, 40.8394538696581, 40.67980535905988, 38.12262679724287, 37.3728435804464, 37.36702163243339, 37.420288118753454] 
+
+----------current kernel finished processing----------
+
+### Current kernel: 1**2 * RBF(length_scale=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: 0.0371**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.0485**2 * RBF(length_scale=1e+03) + WhiteKernel(noise_level=1.73e-05)
+Learned kernel: 0.05**2 * RBF(length_scale=604) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0559**2 * RBF(length_scale=760) + WhiteKernel(noise_level=1e-05)
+Learned kernel: 0.0541**2 * RBF(length_scale=795) + WhiteKernel(noise_level=1.84e-05)
+Learned kernel: 0.0545**2 * RBF(length_scale=938) + WhiteKernel(noise_level=2.82e-05)
+Learned kernel: 0.0544**2 * RBF(length_scale=931) + WhiteKernel(noise_level=2.82e-05)
+Learned kernel: 0.0542**2 * RBF(length_scale=902) + WhiteKernel(noise_level=2.69e-05)
+
+test scores for each model: [-5.27226431e-04 -3.76539665e-04 -9.90736051e-05 -9.58449555e-05
+ -2.76500588e-05 -5.12159120e-06 -4.58411196e-06 -6.14677126e-06] 
+
+negative mean squared error: [-1.05653192e-05 -1.05164497e-05 -3.61907162e-06 -3.78122459e-06
+ -8.86176941e-06 -1.40676489e-05 -1.40510581e-05 -1.33091223e-05] 
+
+log marginal likelihood: [42.608993758908625, 41.003544817865894, 40.13418747513722, 39.98838038890486, 37.566638106648504, 36.83886945013812, 36.82470298807697, 36.866966083824366] 
+
+----------current kernel finished processing----------
+
+### Current kernel: DotProduct(sigma_0=1) + WhiteKernel(noise_level=1e-05) ###
+
+Learned kernel: DotProduct(sigma_0=0.131) + WhiteKernel(noise_level=1.07e-05)
+Learned kernel: DotProduct(sigma_0=8.9e-05) + WhiteKernel(noise_level=1.92e-05)
+Learned kernel: DotProduct(sigma_0=0.00203) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00156) + WhiteKernel(noise_level=6.92e-05)
+Learned kernel: DotProduct(sigma_0=0.142) + WhiteKernel(noise_level=1.02e-05)
+Learned kernel: DotProduct(sigma_0=0.00634) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00464) + WhiteKernel(noise_level=0.000156)
+Learned kernel: DotProduct(sigma_0=0.00322) + WhiteKernel(noise_level=0.000156)
+
+test scores for each model: [-3.23593551e-04 -3.43809191e-04 -8.69965097e-05 -1.15472180e-03
+ -5.15393487e-03 -1.94140490e-03 -8.35474219e-05 -7.49268086e-05] 
+
+negative mean squared error: [-4.86566096e-07 -2.89099721e-06 -2.25185502e-05 -1.00523996e-05
+ -4.04476996e-07 -2.25187467e-05 -2.25189979e-05 -2.25189244e-05] 
+
+log marginal likelihood: [-42.30377287957302, -41.601152707627755, -43.15028980861108, -41.26719937287145, -39.63469591446702, -40.04403036293546, -43.18852860521979, -43.29811859414872] 
+
+----------current kernel finished processing----------
+
