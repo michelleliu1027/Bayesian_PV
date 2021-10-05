@@ -9,12 +9,14 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import make_scorer
 import warnings
+
 warnings.filterwarnings("ignore")
 
 
 def gp_tuning(X, Y, kernel_length_scales=np.logspace(-7, 3, 11),
-              alpha=np.logspace(-7, -2, 6), noise_level_bounds = None,
-              additional_kernels=None, starting_length_scale = 5,
+              alpha=np.logspace(-7, -2, 6), noise_level_bounds=None,
+              noise_level=1e-14,
+              additional_kernels=None, starting_length_scale=5,
               return_table=False, write_table=False,
               table_name="bo_2d_models_table.csv", metric="mean_squared_error",
               return_instance=False):
@@ -36,15 +38,35 @@ def gp_tuning(X, Y, kernel_length_scales=np.logspace(-7, 3, 11),
     """
     # generating kernel choices. Feel free to add more kernels
     kernel_choices = []
-    for i in kernel_length_scales:
-        kernel_choices.extend([1.0 * RBF(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds),
-                               1.0 * RBF(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds) + C(),
-                               1.0 * Matern(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds),
-                               1.0 * RationalQuadratic(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,
-                                   noise_level_bounds=noise_level_bounds),
-                               C() * RBF(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds),
-                               DotProduct(sigma_0_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds),
-                               ExpSineSquared(length_scale=1e-13,length_scale_bounds=(0, i)) + WhiteKernel(noise_level=1e-14,noise_level_bounds=noise_level_bounds)])
+
+    if hasattr(kernel_length_scales, '__iter__'):
+        for i in kernel_length_scales:
+            kernel_choices.extend([1.0 * RBF(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                noise_level=noise_level, noise_level_bounds=noise_level_bounds),
+                                   1.0 * RBF(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                                       noise_level=noise_level, noise_level_bounds=noise_level_bounds) + C(),
+                                   1.0 * Matern(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                                       noise_level=noise_level, noise_level_bounds=noise_level_bounds),
+                                   1.0 * RationalQuadratic(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                                       noise_level=noise_level,
+                                       noise_level_bounds=noise_level_bounds),
+                                   C() * RBF(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                                       noise_level=noise_level, noise_level_bounds=noise_level_bounds),
+                                   DotProduct(sigma_0_bounds=(0, i)) + WhiteKernel(noise_level=noise_level,
+                                                                                   noise_level_bounds=noise_level_bounds),
+                                   ExpSineSquared(length_scale=starting_length_scale, length_scale_bounds=(0, i)) + WhiteKernel(
+                                       noise_level=noise_level, noise_level_bounds=noise_level_bounds)])
+
+    else:
+        kernel_choices = [1.0 * RBF(length_scale=starting_length_scale) + WhiteKernel(noise_level=noise_level),
+                          1.0 * RBF(length_scale=starting_length_scale) + WhiteKernel(noise_level=noise_level) + C(),
+                          1.0 * Matern(length_scale=starting_length_scale) + WhiteKernel(noise_level=noise_level),
+                          1.0 * RationalQuadratic(length_scale=starting_length_scale) + WhiteKernel(
+                              noise_level=noise_level),
+                          C() * RBF(length_scale=starting_length_scale) + WhiteKernel(noise_level=noise_level),
+                          DotProduct(sigma_0=starting_length_scale) + WhiteKernel(noise_level=noise_level),
+                          ExpSineSquared(length_scale=starting_length_scale) + WhiteKernel(noise_level=noise_level)]
+
     if additional_kernels:
         kernel_choices.extend(additional_kernels)
     param_space = {'alpha': alpha,
